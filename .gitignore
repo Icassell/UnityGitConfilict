@@ -1,3 +1,6 @@
 UnityConflict/Library/
 UnityConflict/Logs/
 UnityConflict/Temp/
+UnityConflict/.idea/
+UnityConflict/Assembly-CSharp.csproj
+UnityConflict/obj/
